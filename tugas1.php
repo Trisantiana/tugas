@@ -86,6 +86,20 @@
 				echo "&nbsp;";
 			echo "</td>";
 			echo "<td>";
+				echo "Jurusan";
+			echo "</td>";
+			echo "<td>";
+				echo ":";
+			echo "</td>";
+			echo "<td>";
+				echo "Rekayasa Perangkat Lunak";
+			echo "</td>";
+		echo "</tr>";
+		echo "<tr>";
+			echo "<td>";
+				echo "&nbsp;";
+			echo "</td>";
+			echo "<td>";
 				echo "Agama";
 			echo "</td>";
 			echo "<td>";
@@ -125,9 +139,5 @@
 		echo "</tr>";
 		echo "</table>";
 		echo "<hr>";
-
-
-
-
 
 ?>
