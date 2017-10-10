@@ -1,6 +1,6 @@
 <?php
 	echo "<font color=black face='Georgia'>";
-
+	echo "<Biodata>";
 	echo "<b>";
 	echo "<h2>";
 	echo "<center>";
@@ -8,7 +8,6 @@
 	echo "</h2>";
 	echo "<br>";
 	echo "<hr>";
-
 	echo "<center>";
 	echo "<table width='500' border='0'>";
 		echo "<tr>";
